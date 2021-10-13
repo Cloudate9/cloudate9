@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi all! 👋
 
-<!--
-**awesomemoder316/awesomemoder316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Java and Kotlin coder who does codes in my spare time. I mainly do Minecraft as I love to play on it, and it's something that I can practise coding on!
 
-Here are some ideas to get you started:
+Noteable repositories: 
+  - Awesomemoder316/PasswordLogOn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Noteable contributions: 
+  - LaurieTheFish/BetterPortals
+
+
+Stat cards:
+
+![Awesomemoder316's favourite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awesomemoder316&theme=radical)
+
+![Awesomemoder316's GitHub stats](https://github-readme-stats.vercel.app/api?username=awesomemoder316&show_icons=true&theme=radical)
