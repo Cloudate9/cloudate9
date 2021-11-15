@@ -1,6 +1,7 @@
 ### Hi all! 👋
 
-I'm a Java and Kotlin coder who does codes in my spare time. I mainly do Minecraft as I love to play on it, and it's something that I can practise coding on!
+I'm a Java and Kotlin coder who does codes in my spare time. I mainly do Minecraft as I love to play on it, and it's something that I can practise coding on! 
+I'm also learning C++ and coding in competitions using it.
 
 Noteable repositories: 
   - Awesomemoder316/PasswordLogOn
@@ -20,6 +21,6 @@ Where I can be found:
 
 [My Curseforge, including some projects that I eventually want OSS](https://www.curseforge.com/members/awesomemoder316/projects/)
 
-[Discord Server](https://discord.com/nPbakm9eEr/)
+[Discord Server](https://discord.gg/nPbakm9eEr/)
 
 I'm open for Minecraft plugin commissions, drop me a dm on Discord if you want something custom made, and we can discuss further.
