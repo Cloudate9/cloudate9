@@ -22,5 +22,3 @@ Where I can be found:
 [My Curseforge, including some projects that I eventually want OSS](https://www.curseforge.com/members/awesomemoder316/projects/)
 
 [Discord Server](https://discord.gg/nPbakm9eEr/)
-
-I'm open for Minecraft plugin commissions, drop me a dm on Discord if you want something custom made, and we can discuss further.
