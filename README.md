@@ -18,6 +18,6 @@ Stat cards:
 
 Where I can be found:
 
-[My Curseforge, including some projects that I eventually want OSS](https://www.curseforge.com/members/cloudon9/projects/)
+[My Curseforge, including some projects that I eventually want OSS](https://www.curseforge.com/members/cloudonnine/projects/)
 
-[Discord Server](https://discord.gg/nPbakm9eEr/)
+[Discord Server](https://discord.gg/nPbakm9eEr)
