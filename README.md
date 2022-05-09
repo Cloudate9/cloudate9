@@ -1,13 +1,8 @@
 ### Hi all! 👋
 
 I'm a Java and Kotlin coder who does codes in my spare time. I mainly do Minecraft as I love to play on it, and it's something that I can practise coding on! 
-I'm also learning C++ and coding in competitions using it.
 
-Noteable contributions: 
-  - ReviversMc/modget-create
-  - Cloudate9/PasswordLogOn
-  - Cloudate9/DiscordBackdoorBot
-  - LaurieTheFish/BetterPortals
+Also currently leading CTFFailures in Cyber CTFs 
 
 
 Stat cards:
