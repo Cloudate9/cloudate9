@@ -4,15 +4,9 @@ I'm a Java and Kotlin coder who does codes in my spare time. I mainly do Minecra
 
 Also currently leading CTFFailures in Cyber CTFs 
 
-
-Stat cards:
-
-![Cloudate9's favourite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudate9&theme=radical)
-
-![Cloudate9's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudate9&show_icons=true&theme=radical)
+![Metrics](https://metrics.lecoq.io/cloudate9?template=classic&isocalendar=1&languages=1&notable=1&lines=1&introduction=1&base.indepth=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&introduction.title=true&config.timezone=UTC)
 
 Where I can be found:
 
-[My Curseforge, including some projects that I eventually want OSS](https://www.curseforge.com/members/cloudonnine/projects/)
-
+[CurseForge](https://www.curseforge.com/members/cloudonnine/projects/)  
 [Discord Server](https://discord.gg/nPbakm9eEr)
